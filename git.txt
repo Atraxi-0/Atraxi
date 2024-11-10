@@ -1,0 +1,12 @@
+git --version
+ls ->lists all files
+ls -a -> lists all files including the hidden files
+
+git status
+    untracked - git doesn't yet track
+    modified - changed
+    staged - file ready to commit
+    unmodified - unchanged
+
+git add <filename>
+git commit-m "some message"
